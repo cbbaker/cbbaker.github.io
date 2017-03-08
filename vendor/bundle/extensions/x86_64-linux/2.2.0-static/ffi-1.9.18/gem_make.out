@@ -1,0 +1,45 @@
+/home/cbb/.rbenv/versions/2.2.4/bin/ruby -r ./siteconf20170308-4613-1a0y6m9.rb extconf.rb
+checking for ffi_call() in -lffi... yes
+checking for ffi_prep_closure()... yes
+checking for ffi_raw_call()... yes
+checking for ffi_prep_raw_closure()... yes
+checking for shlwapi.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... yes
+creating extconf.h
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling LongDouble.c
+compiling LastError.c
+compiling StructByReference.c
+compiling MappedType.c
+compiling Types.c
+compiling Struct.c
+compiling DynamicLibrary.c
+compiling AbstractMemory.c
+compiling DataConverter.c
+compiling StructLayout.c
+compiling Thread.c
+compiling Function.c
+compiling Platform.c
+compiling Call.c
+compiling Pointer.c
+compiling Type.c
+compiling ArrayType.c
+compiling ClosurePool.c
+compiling Buffer.c
+compiling StructByValue.c
+compiling FunctionInfo.c
+compiling ffi.c
+compiling MethodHandle.c
+compiling MemoryPointer.c
+compiling Variadic.c
+linking shared-object ffi_c.so
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20170308-4613-e1jbz7
