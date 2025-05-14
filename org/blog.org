@@ -1,9 +1,10 @@
 #+TODO: TODO(t) | DONE(d)
 #+hugo_base_dir: ../
 
-* DONE My first post                                        :tag1:@category1:
+* Miscellaneous
+** DONE Origin Story
 CLOSED: [2025-05-13 Tue 16:52]
 :PROPERTIES:
-:EXPORT_FILE_NAME: my-first-post
+:EXPORT_FILE_NAME: origin-story
 :END:
-Setting up Hugo with ox-hugo for blogging from org-mode.
+I needed a place to store links and random notes to myself about things I figured out. I started keeping more meticulous notes in org-mode in Emacs, and I thought it might be nice to push some out onto the web. I settled on using [[https://gohugo.io/][Hugo]], as I wanted a static site, and [[https://ox-hugo.scripter.co/][ox-hugo]] exports cleanly to it. We'll see how it goes.
