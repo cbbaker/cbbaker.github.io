@@ -1,0 +1,9 @@
+#+TODO: TODO(t) | DONE(d)
+#+hugo_base_dir: ../
+
+* DONE My first post                                        :tag1:@category1:
+CLOSED: [2025-05-13 Tue 16:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:END:
+Setting up Hugo with ox-hugo for blogging from org-mode.
