@@ -1,0 +1,19 @@
+#+TODO: TODO(t) | DONE(d)
+#+hugo_base_dir: ../
+#+hugo_section: links
+
+* Links
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:END:
+** Emacs
+- [[https://karthinks.com/software/emacs-window-management-almanac/][The Emacs Window Management Almanac]]
+- [[https://writequit.org/articles/working-with-logs-in-emacs.html][Working with log files in Emacs]]
+- [[https://github.com/MatthewZMD/aidermacs?tab=readme-ov-file][Aidermacs: AI Pair Programming in Emacs]]
+- [[https://ox-hugo.scripter.co/][Org to Markdown for Hugo]]
+
+** Rust
+- [[https://sabrinajewson.org/blog/errors][Modular Errors in Rust]]
+- [[https://doc.rust-lang.org/rust-by-example/index.html][Rust by Example]]
+
+
